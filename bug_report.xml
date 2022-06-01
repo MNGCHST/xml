@@ -7,6 +7,6 @@
 <Author>Андрей</Author>
 <Executor>Иван</Executor>
 <STR>1)Запустить приложение 2)Закрыть приложение до момента окончания загрузки разделов с товарами(пока идет анимация загрузки, до момента, пока появятся картинки-превью разделов) 3)Запустить приложение</STR>
-<Actual result>Все картинки-первью белые, без информации о товаре, с анимацией загрузки, которая не кончается. Разделы выбрать нельзя</Actual result>
-<Expected result> Все картинки-превью загрузились после анимации загрузки</Expected result>
-<Additional materials>https://github.com/MNGCHST/txt/blob/3c5ba9c1f5756a264cbc95f18e92ee3795b15636/photo_2022-06-01_15-26-03.jpg</Additional materials>
+<Actual_result>Все картинки-первью белые, без информации о товаре, с анимацией загрузки, которая не кончается. Разделы выбрать нельзя</Actual_result>
+<Expected_result> Все картинки-превью загрузились после анимации загрузки</Expected_result>
+<Additional_materials>https://github.com/MNGCHST/txt/blob/3c5ba9c1f5756a264cbc95f18e92ee3795b15636/photo_2022-06-01_15-26-03.jpg</Additional_materials>
